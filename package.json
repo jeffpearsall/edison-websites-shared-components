@@ -1,0 +1,16 @@
+{
+  "name": "edison-websites-shared-components",
+  "version": "1",
+  "description": "Shared Component Repo For Edison Websites",
+  "main": "index.js",
+  "repository": "https://github.com/jeffpearsall/edison-websites-shared-components.git",
+  "author": "Bobferaples",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0"
+  },
+  "scripts": {
+  "build": "babel src -d build --copy-files",
+  "prepare": "yarn run build"
+ }
+}
