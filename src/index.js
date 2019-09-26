@@ -1,1 +1,5 @@
-export { default as TodaysDate } from './todaysDate';
+import TodaysDate from 'components/TodaysDate'
+
+export {
+  TodaysDate
+}
