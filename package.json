@@ -1,6 +1,6 @@
 {
   "name": "edison-websites-shared-components",
-  "version": "0.1.0",
+  "version": "0.12.0",
   "description": "Shared Component Repo For Edison Websites",
   "main": "index.js",
   "repository": "https://github.com/jeffpearsall/edison-websites-shared-components.git",
